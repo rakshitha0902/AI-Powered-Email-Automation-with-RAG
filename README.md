@@ -27,29 +27,12 @@ An intelligent, end-to-end email automation workflow built with **n8n**, **OpenA
 
 ---
 
-## 📂 Project Structure
-
-📁 workflows/
-└── email-automation-workflow.json
-📁 docs/
-└── setup-guide.md
-📁 assets/
-└── screenshots/
-README.md
-.env.example
-
-yaml
-Copy
-Edit
-
----
-
 ## ⚙️ Setup Instructions
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/email-ai-automation.git
-   cd email-ai-automation
+   git clone https://github.com/rakshitha0902/AI-Powered-Email-Automation-with-RAG.git
+cd AI-Powered-Email-Automation-with-RAG
 Set Up Environment Variables
 Create a .env file based on .env.example and fill in:
 
